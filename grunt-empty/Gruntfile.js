@@ -13,7 +13,7 @@ module.exports = function (grunt){
 
 	grunt.initConfig({
 		config:config,
-
+		//tasks target options
 		// tasks
 		copy: {
 			// 只读模式 支持额外参数
